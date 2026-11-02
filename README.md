@@ -23,7 +23,7 @@ Already enrolled).
   embedded as gzip+base64, so a page needs no server and no other files.
 
 The language choice (বাংলা / English) is remembered across pages.
-Total about 145 MB; largest single page 1.5 MB.
+Total about 149 MB; largest single page 1.5 MB.
 
 ## Tile 1 - search for a person
 
